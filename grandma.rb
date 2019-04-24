@@ -21,7 +21,7 @@ def speak_to_grandma(phrase)
   "I LOVE YOU TOO PUMPKIN!"
   elsif speak_to_grandma == "WHAT DID YOU EAT TODAY?"
   "NO, NOT SINCE 1938!"
-else speak_to_grandma == "WHAT?"
+  else speak_to_grandma == "WHAT?"
     "NO, NOT SINCE 1938"
 end
   

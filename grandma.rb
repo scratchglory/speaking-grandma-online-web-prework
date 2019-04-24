@@ -19,7 +19,7 @@ def speak_to_grandma(phrase)
   elsif phrase == "WHAT DID YOU EAT TODAY?"
     "NO, NOT SINCE 1938!"
   elsif phrase == "WHAT?"
-    "NO, NOT SINCE 1938"
+    "NO, NOT SINCE 1938!"
   else phrase == !phrase.uppercase
     "HUH?!, SPEAK UP, SONNY"
 end

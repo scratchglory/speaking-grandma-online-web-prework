@@ -14,6 +14,7 @@
 
 speak_to_grandma = phrase
 
+def speak_to_grandma()
 if speak_to_grandma == phrase
   "HUH?! SPEAK UP, SONNY!"
 elsif speak_to_grandma == "I LOVE YOU GRANDMA!"

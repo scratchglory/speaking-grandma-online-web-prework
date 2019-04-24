@@ -14,14 +14,14 @@
 
 
 def speak_to_grandma(phrase)
-  if phrase == phrase
-    "HUH?! SPEAK UP, SONNY!"
-  elsif speak_to_grandma == "WHAT DID YOU EAT TODAY?"
-    "NO, NOT SINCE 1938!"
-  elsif speak_to_grandma == "WHAT?"
-    "NO, NOT SINCE 1938"
-  else speak_to_grandma == "I LOVE YOU GRANDMA!"
+  if phrase == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
+  elsif phrasea == "WHAT DID YOU EAT TODAY?"
+    "NO, NOT SINCE 1938!"
+  elsif phrase == "WHAT?"
+    "NO, NOT SINCE 1938"
+  else phrase == !phrase.uppercase
+    "HUH?!, SPEAK UP, SONNY"
 end
   
  
